@@ -2,3 +2,6 @@
 *.txt
 *.net
 *.py
+
+
+!important.txt
